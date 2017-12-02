@@ -11,5 +11,5 @@ if (d == 0) {
 } else if (d > 0) {
     println("x1=" + x1, "x2=" + x2);
 } else if (d < 0) {
-    println("net corney");
+    println("корней нет");
 }

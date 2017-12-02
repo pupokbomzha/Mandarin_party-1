@@ -1,5 +1,5 @@
-int n = 5;
-int fak  = 1;
+int n = 10 ;
+long fak = 1;
 
 
 for(int x = 2; x <= n; x++) {
